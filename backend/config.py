@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 # config.py —— 所有配置集中在这里，按需修改
 
 from pathlib import Path
