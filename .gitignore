@@ -1,0 +1,11 @@
+backend/.env
+backend/models/
+backend/.venv/
+backend/__pycache__/
+backend/answer.csv
+backend/question.csv
+backend/cmedqa2_raw/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+backend/.idea/

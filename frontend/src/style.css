@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --primary: #2563eb; --primary-h: #1d4ed8;
+  --bg: #f8fafc; --card: #ffffff;
+  --border: #e2e8f0; --text: #1e293b;
+  --muted: #64748b; --radius: 12px;
+}
+body { font-family: -apple-system,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+a { color:inherit; text-decoration:none; }
